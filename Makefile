@@ -14,40 +14,48 @@ default:
 	@echo ""
 	@echo "All will make all packs it can"
 	@echo ""
-	
+
+PACKNAME := $(notdir $(CURDIR))
+
 curseforge:
+	-mkdir .build
 	@echo "Making Curseforge pack"
-	packwiz curseforge export --pack-file .minecraft/pack.toml -o ../modpack-curseforge.zip
-	7z d ../modpack-curseforge.zip overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
+	packwiz curseforge export --pack-file .minecraft/pack.toml
+	mv ./*.zip ./.build/
 
 modrinth:
+	-mkdir .build
 	@echo "Making Modrinth pack"
-	packwiz modrinth export --pack-file .minecraft/pack.toml -o ../modpack-modrinth.zip
-	7z d ../modpack-modrinth.zip overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
+	packwiz modrinth export --pack-file .minecraft/pack.toml
+	mv ./*.mrpack ./.build/
 
 multimc:
+	-mkdir .build
 	@echo "Making MultiMC pack"
-	7z d ../modpack-multimc.zip ./* -r
-	7z d ../modpack-multimc.zip ./.minecraft -r
-	7z a ../modpack-multimc.zip ./* -r
-	7z a ../modpack-multimc.zip ./.minecraft -r
-	7z d ../modpack-multimc.zip ./.minecraft/mods ./.minecraft/pack.toml ./.minecraft/index.toml -r
+	7z d .build/${PACKNAME}-multimc.zip ./* -r
+	7z d .build/${PACKNAME}-multimc.zip ./.minecraft -r
+	7z a .build/${PACKNAME}-multimc.zip ./* -r
+	7z a .build/${PACKNAME}-multimc.zip ./.minecraft -r
+	7z d .build/${PACKNAME}-multimc.zip ./.build ./.minecraft/mods ./.minecraft/pack.toml ./.minecraft/index.toml -r
 
 technic:
+	-mkdir .build
 	@echo "Making Technic pack"
 	-rm -rf .technic
 	-cp -r .minecraft .technic
-	mv .technic/modpack.icon.png .technic/icon.png
-	cd .technic && java -jar packwiz-installer-bootstrap.jar https://gitlab.com/Merith-TK/modpack-template/-/raw/main/.minecraft/pack.toml && cd ..
-	-rm -rf .technic/packwiz*
-	7z d ../modpack-technic.zip ./* -r
-	7z a ../modpack-technic.zip ./.technic/* -r
+	cp ${PACKNAME}_icon.png .technic/icon.png
+	cd .technic && java -jar ../.minecraft/packwiz-installer-bootstrap.jar ../.minecraft/pack.toml && cd ..
+	-rm -rf .technic/packwiz* .technic/index.toml .technic/pack.toml .technic/mods/*.toml
+	7z d .build/${PACKNAME}-technic.zip ./* ./.* -r
+	7z a .build/${PACKNAME}-technic.zip ./.technic/* -r
 
-clean:
+preClean:
+	-rm -rf .build
+postClean:
 	-rm -rf .technic
 	-git gc --aggressive --prune
 
-all: curseforge modrinth multimc technic clean
+all: preClean curseforge modrinth multimc technic postClean
 
 update-packwiz:
 	go install github.com/packwiz/packwiz@latest
