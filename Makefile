@@ -59,5 +59,8 @@ all: preClean curseforge modrinth multimc technic postClean
 
 update-packwiz:
 	go install github.com/packwiz/packwiz@latest
+	go install github.com/Merith-TK/packwiz-wrapper/cmd/pw@main
+	go install github.com/Merith-TK/packwiz-wrapper/cmd/pw-modlist@main
+	go install github.com/Merith-TK/packwiz-wrapper/cmd/pw-reinstall@main
 	clear
 	@echo "Packwiz has been Updated"
