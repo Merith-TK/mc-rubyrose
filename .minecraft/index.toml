@@ -5,7 +5,7 @@ file = "bin/version.json"
 hash = "b5f8dc11af2e5d2eeb17007a53fced417fdb3020baac8a8f8dd230a2d3fd854e"
 
 [[files]]
-file = "modpack.icon.png"
+file = "modpack-template_icon.png"
 hash = "50f74a7debb4a852e1384434500515f2478b8dcf0d71b75eba148ca34d89715c"
 
 [[files]]
@@ -14,28 +14,13 @@ hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
 
 [[files]]
-file = "mods/lithium.toml"
-hash = "869cfbeecb3595d8e72a7ec77741389e9b2154d63478ac3ecb1fcaa0879c80ec"
-metafile = true
-
-[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.toml"
-hash = "103f9e1bc20ebbef5a496b73572aaa9a24066831fc61fe3a28eedea3602153f9"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
-hash = "942e9738be0c83d196cd7cee9a3e93b9184faff7882d83e3d52ec66912ac07eb"
-metafile = true
-
-[[files]]
-file = "mods/sodium.toml"
-hash = "4aba93a705eb2c6300818297bc1d85329b9b085392810dbf15c79b5e3dd6d0ef"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
