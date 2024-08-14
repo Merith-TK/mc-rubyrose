@@ -339,6 +339,11 @@ hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
 
 [[files]]
+file = "mods/sc-peripherals.pw.toml"
+hash = "666bb36c42a08f6f34ac4ed954f95222ba690a6380062b740b602abe8f21901c"
+metafile = true
+
+[[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "b930f158ef0472ef9f2c5e4b4443cceda034524b8b0596e9c321f243b51e7fa7"
 metafile = true
@@ -356,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
+metafile = true
+
+[[files]]
+file = "mods/the-printer.pw.toml"
+hash = "276b63a0b4f651a4218302bd16ee740ea437f158cda64a082fea52024e133e25"
 metafile = true
 
 [[files]]
