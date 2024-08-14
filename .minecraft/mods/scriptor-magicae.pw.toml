@@ -1,0 +1,13 @@
+name = "Scriptor Magicae"
+filename = "scriptor-1.2.3-1.20.1-fabric-sgd.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JyJgaOrk/versions/6xnvaff1/scriptor-1.2.3-1.20.1-fabric-sgd.jar"
+hash-format = "sha1"
+hash = "8da399aa8cc9d9d4b9725535bcbd4e98a1be63e6"
+
+[update]
+[update.modrinth]
+mod-id = "JyJgaOrk"
+version = "6xnvaff1"
