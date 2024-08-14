@@ -163,11 +163,6 @@ hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
-metafile = true
-
-[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
 metafile = true
