@@ -11,3 +11,8 @@ hash = "f7772d7c4daca12d2e73a7439afabaf42b42578f"
 [update.modrinth]
 mod-id = "XJ9is6vj"
 version = "D5i0F490"
+
+[option]
+optional = true
+default = false
+description = "VR Immersive Features for Minecraft"

@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/flywheel.json"
+hash = "17d3483c9eaf8d445ad7d3c668db7c5ad9f37f61c13ee1f0691cfc23b939bc91"
+
+[[files]]
+file = "config/yosbr/config/immersive_mc.toml"
+hash = "f4b5e9a5c83fbc9c2f0df1c0dbfaf89e5316f805295b6af87d4a858d8075a5ff"
+
+[[files]]
 file = "modpack-template_icon.png"
 hash = "50f74a7debb4a852e1384434500515f2478b8dcf0d71b75eba148ca34d89715c"
 
@@ -85,6 +93,11 @@ hash = "77ea2a3cd904a118d57f2b9e26fdf27264270f698c7563187b665153994b67a0"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "ed983f2fa6848c43fcc715a949db42ec99c8107aacdefc268681dbf95d3e6c56"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
@@ -111,7 +124,17 @@ metafile = true
 
 [[files]]
 file = "mods/immersivemc.pw.toml"
-hash = "befa88388cd31cb19b3d131d41bb704c854377098b420228e0f72b2d574440a2"
+hash = "0e2b5aade879fe582b3376ec6f5822f6c3b45c6ddffd33be42d8183f08e5f94e"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+metafile = true
+
+[[files]]
+file = "mods/infinity-cave.pw.toml"
+hash = "f4e9f736d8aa2315892e712849d454672197285117e7eb249d25d89381e88dc4"
 metafile = true
 
 [[files]]
@@ -155,6 +178,11 @@ hash = "4a832cd994956b5ebfc3a947dd8fd7f0892a8c7d4990717b8e5388750715b950"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "f5065276e57a561d2701826d93e120a28fd9a60002c2714e5a53d3313646efba"
 metafile = true
@@ -167,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
 
 [[files]]
