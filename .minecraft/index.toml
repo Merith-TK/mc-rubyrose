@@ -164,6 +164,11 @@ hash = "2dfcb2cfbd297d87bc7d11617712c903a49c225278b7cc2e024f112f33412a61"
 metafile = true
 
 [[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "32aac801838ce93ccca60ec99f04293546985c8bc2e2d19fba46953e66a3f53e"
+metafile = true
+
+[[files]]
 file = "mods/essential.pw.toml"
 hash = "ed983f2fa6848c43fcc715a949db42ec99c8107aacdefc268681dbf95d3e6c56"
 metafile = true
@@ -206,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/iceandfire-fabric.pw.toml"
 hash = "ca15457523fb55caaa28030d2eedd2c074306bf1a4a1c49fb784c0fa94491557"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
 metafile = true
 
 [[files]]
