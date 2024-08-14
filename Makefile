@@ -54,12 +54,12 @@ multimc: refresh
 local: refresh
 	-mkdir .build
 	@echo "Making MultiMC pack"
-	7z d .build/${PACKNAME}-multimc.zip ./* -r
-	7z d .build/${PACKNAME}-multimc.zip ./.minecraft -r
+	7z d .build/${PACKNAME}-multimc-local.zip ./* -r
+	7z d .build/${PACKNAME}-multimc-local.zip ./.minecraft -r
 	@sed -i 's#{PACKURL}#${PACKLOCAL}#' instance.cfg
-	7z a .build/${PACKNAME}-multimc.zip ./* -r
-	7z a .build/${PACKNAME}-multimc.zip ./.minecraft -r
-	7z d .build/${PACKNAME}-multimc.zip ./.build ./.minecraft/mods ./.minecraft/pack.toml ./.minecraft/index.toml -r
+	7z a .build/${PACKNAME}-multimc-local.zip ./* -r
+	7z a .build/${PACKNAME}-multimc-local.zip ./.minecraft -r
+	7z d .build/${PACKNAME}-multimc-local.zip ./.build ./.minecraft/mods ./.minecraft/pack.toml ./.minecraft/index.toml -r
 	@sed -i 's#${PACKLOCAL}#{PACKURL}#' instance.cfg
 
 technic: refresh

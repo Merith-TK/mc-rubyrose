@@ -8,6 +8,7 @@
 .minecraft/realms_persistence.json
 
 ## Ignore Modpack Updater Script loose files
+.build
 .technic
 *.zip
 *.mrpack
