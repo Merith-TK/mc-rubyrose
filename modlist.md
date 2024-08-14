@@ -2,13 +2,11 @@
 
 ## Client Mods
 
-- [AE2 EMI Crafting Integration](https://modrinth.com/mod/eVAp8Nkw/version/lEmazn2j)
 - [Better End Sky](https://modrinth.com/mod/SgJ1iW80/version/7Hl03yPV)
-- [EMI](https://modrinth.com/mod/fRiHVvU7/version/CMFWLyX6)
 - [Essential Mod](https://modrinth.com/mod/k2ZPuTBm/version/KHwVi0MB)
 - [Indium](https://modrinth.com/mod/Orvt0mRa/version/gofbpynL)
-- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ/version/hKkw1JoQ)
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM/version/lEkperf6)
+- [Roughly Enough Items (REI)](https://modrinth.com/mod/nfn13YXA/version/pRJse6co)
 - [Sodium](https://modrinth.com/mod/AANobbMI/version/ygf8cVZg)
 
 ## Shared Mods
@@ -35,7 +33,6 @@
 - [Infusion Table](https://modrinth.com/mod/W9CiRGYK/version/jsoERxuz)
 - [Jade 🔍](https://modrinth.com/mod/nvQzSEkH/version/vlM1OUBd)
 - [Lavender](https://modrinth.com/mod/D5h9NKNI/version/nJIAf9uL)
-- [Lithium](https://modrinth.com/mod/gvQqBUqZ/version/ZSNsJrPI)
 - [MC VR API](https://modrinth.com/mod/B3INNxum/version/4tJF8iTk)
 - [Origins: Classes](https://modrinth.com/mod/FiDptjtR/version/EnGfmh9y)
 - [Origins](https://modrinth.com/mod/3BeIrqZR/version/OdNHB7Bh)
@@ -47,6 +44,7 @@
 - [Reinforced Shulker Boxes](https://modrinth.com/mod/xlOwuSdN/version/VPA2WJX5)
 - [Resourceful Config](https://modrinth.com/mod/M1953qlQ/version/PlEObkl9)
 - [Scriptor Magicae](https://modrinth.com/mod/JyJgaOrk/version/6xnvaff1)
+- [Slotn't](https://modrinth.com/mod/DlZXbJ8x/version/lwnjQZZe)
 - [Tool Leveling+](https://modrinth.com/mod/I8oNjZdJ/version/9B0nhkVi)
 - [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV/version/4QOoEVY8)
 - [Trinkets](https://modrinth.com/mod/5aaWibi9/version/AHxQGtuC)

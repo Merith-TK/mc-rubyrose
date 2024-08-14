@@ -1,0 +1,13 @@
+name = "Slotn't"
+filename = "Slotn't v0.0.1  [1.20-1.20.4].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DlZXbJ8x/versions/lwnjQZZe/Slotn%27t%20v0.0.1%20%20%5B1.20-1.20.4%5D.jar"
+hash-format = "sha1"
+hash = "a4ef4adcf6be15481da675df17831677cd49c71e"
+
+[update]
+[update.modrinth]
+mod-id = "DlZXbJ8x"
+version = "lwnjQZZe"
