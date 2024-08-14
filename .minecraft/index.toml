@@ -228,6 +228,11 @@ hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
+metafile = true
+
+[[files]]
 file = "mods/tool-leveling.pw.toml"
 hash = "b48462a82e275eb0aeb3e44b5270a1f357810fd1fdcc5b1b572ff1283bb8f26b"
 metafile = true
