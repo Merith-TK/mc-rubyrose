@@ -249,6 +249,11 @@ hash = "db82303a8bc55ed5eaceb772b43d2cee91cee696312d39ba0acaca35acf4dc45"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "08466e36ec0585de1c99f28e5f91566160e06283e5d69ad47c74623f72ce9385"
+metafile = true
+
+[[files]]
 file = "mods/lavender.pw.toml"
 hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
 metafile = true
@@ -349,6 +354,11 @@ hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
+metafile = true
+
+[[files]]
 file = "mods/sc-peripherals.pw.toml"
 hash = "666bb36c42a08f6f34ac4ed954f95222ba690a6380062b740b602abe8f21901c"
 metafile = true
@@ -356,11 +366,6 @@ metafile = true
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "b930f158ef0472ef9f2c5e4b4443cceda034524b8b0596e9c321f243b51e7fa7"
-metafile = true
-
-[[files]]
-file = "mods/slotnot.pw.toml"
-hash = "cf8054547d148d5974c6ed4ab034c31ca5a9fb042d9afe16c90a37be948ae733"
 metafile = true
 
 [[files]]
