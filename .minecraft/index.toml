@@ -18,11 +18,6 @@ hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
 metafile = true
 
 [[files]]
-file = "mods/ae2-emi-crafting.pw.toml"
-hash = "b754342449d8c7d9bcc7cd7f425dd0bd29fb22431529b8238e62e94de412ba04"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "30f6a07aacfc0b9a5038a3e5261f231e81af3b6388cf473c87f978f4e2fb9347"
 metafile = true
@@ -88,11 +83,6 @@ hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "77ea2a3cd904a118d57f2b9e26fdf27264270f698c7563187b665153994b67a0"
-metafile = true
-
-[[files]]
 file = "mods/essential.pw.toml"
 hash = "ed983f2fa6848c43fcc715a949db42ec99c8107aacdefc268681dbf95d3e6c56"
 metafile = true
@@ -148,11 +138,6 @@ hash = "c43375da9a71c4a51f171be02d148cc6e7d22b0b1294fed996d88616b4184aa1"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "89624530d4111760d413a7123ce83ddf0485d278f9730a13e54746dbbf6601b3"
-metafile = true
-
-[[files]]
 file = "mods/lavender.pw.toml"
 hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
 metafile = true
@@ -200,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "f6bab22238c39308fc1824e9bcecb9ab530c080ce1dc30c7337802ef3e00a481"
 metafile = true
 
 [[files]]
