@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/bclib/cache.json"
+hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
+
+[[files]]
+file = "config/yosbr/config/bclib/client.json"
+hash = "ac12976e3e553da18c3ead6ad833f1215fcf90f0647653b66128ea25f92af598"
+
+[[files]]
+file = "config/yosbr/config/bclib/server.json"
+hash = "fc5d5ccb8346fb3ca364de855f33957391ea9086b9612ec7fb21bab4ab4f9803"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "8254cc98fc6b737bac12f0e368d8918169fb1c2cf6116961cff1bc7d465ee316"
 
@@ -82,6 +94,11 @@ hash = "9a9190378ed3f2dcedb262fe971cfb4f1ee2f404f6c68d35970d29d413ed7645"
 metafile = true
 
 [[files]]
+file = "mods/bygone-nether.pw.toml"
+hash = "99cafd9b87b01542317245acb725755dd463961c2a112c1e93578c29b6262877"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
@@ -94,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "8b4722a423acf71474ec970b2bfb6f2044b9eb0d18d69db466fe6d4594976299"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "1240209876a3d7069fb5a05fef777a3a7eef60786e62ad3bff9037ac5f0d06ce"
 metafile = true
 
 [[files]]
@@ -164,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "a0fd071193ac4bfe985100641f46dcdbf328952336b16e6abfc732971cd69af6"
 metafile = true
 
 [[files]]

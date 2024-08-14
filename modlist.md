@@ -4,6 +4,7 @@
 
 - [Better End Sky](https://modrinth.com/mod/SgJ1iW80/version/7Hl03yPV)
 - [BetterF3](https://modrinth.com/mod/8shC1gFX/version/7WkFnw9F)
+- [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ/version/vbbrzIWl)
 - [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC/version/G4P1MSAp)
 - [Essential Mod](https://modrinth.com/mod/k2ZPuTBm/version/KHwVi0MB)
 - [Indium](https://modrinth.com/mod/Orvt0mRa/version/gofbpynL)
@@ -26,6 +27,7 @@
 - [BetterEnd](https://modrinth.com/mod/gc8OEnCC/version/7QwyTILr)
 - [BetterNether](https://modrinth.com/mod/MpzVLzy5/version/IG7kgtJH)
 - [Bookshelf](https://modrinth.com/mod/uy4Cnpcm/version/CBnLZwRS)
+- [Bygone Nether](https://modrinth.com/mod/kt3BLgXB/version/S8KkpB4v)
 - [Carry On](https://modrinth.com/mod/joEfVgkn/version/Mkla4B3q)
 - [CC: Tweaked](https://modrinth.com/mod/gu7yAYhd/version/B9b58ZKh)
 - [Chrysalis](https://modrinth.com/mod/rlnjZCZJ/version/b94UqQWd)
@@ -40,6 +42,7 @@
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL/version/kdDGGNEt)
 - [Farmer's Delight Refabricated](https://modrinth.com/mod/7vxePowz/version/mCvHYQFv)
 - [Forge Config API Port](https://modrinth.com/mod/ohNO6lps/version/CtENDTlF)
+- [Wraith Waystones](https://modrinth.com/mod/sTZr7NVo/version/DZAntbmD)
 - [Icarae Origin](https://modrinth.com/mod/XMwNnLZG/version/Rm6JnCxH)
 - [Icarus](https://modrinth.com/mod/Dw7M6XKW/version/OdZ2fpej)
 - [IceAndFire-Fabric](https://modrinth.com/mod/VpmCsizY/version/fcOoOX42)
