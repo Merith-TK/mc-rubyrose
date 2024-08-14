@@ -1,0 +1,13 @@
+name = "Chrysalis"
+filename = "chrysalis-0.1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rlnjZCZJ/versions/b94UqQWd/chrysalis-0.1.8.jar"
+hash-format = "sha1"
+hash = "a61c0b2faafcd3a67ec5cc3e1d81366755f6f5ee"
+
+[update]
+[update.modrinth]
+mod-id = "rlnjZCZJ"
+version = "b94UqQWd"
