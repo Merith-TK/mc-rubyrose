@@ -33,6 +33,11 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/arrp.pw.toml"
+hash = "9455cd5f0d679e9b4640bd8d963925825850ef5d15b4af928bacd1c7d8daa0cd"
+metafile = true
+
+[[files]]
 file = "mods/backslot.pw.toml"
 hash = "642740635598b2354077b21b6cac0aa1585030944f6cd1c799c862b6bedc469f"
 metafile = true
@@ -43,8 +48,33 @@ hash = "7e4bbcc9f93b5716cf113e1162a3bb52f8f099a8f1b7113d21b7e9b18b0bd0fe"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
 file = "mods/better-end-sky.pw.toml"
 hash = "9d5eb5ff51dfc7123dfea318a027ec5fdf96ac9a29451367ce36cfcb88833679"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "5e3ee3550327d6b3545abc363325056c9fc09fb4d48a841e32da2da54c7f74c9"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "9a9190378ed3f2dcedb262fe971cfb4f1ee2f404f6c68d35970d29d413ed7645"
 metafile = true
 
 [[files]]
@@ -73,8 +103,23 @@ hash = "b99d5b9487ac9f7041af14efa6c1643800b36612f5ba50b14eebdf931c522ea7"
 metafile = true
 
 [[files]]
+file = "mods/create-compat-betterend-betternether.pw.toml"
+hash = "46ae37714072b7b7ec4c9685f2c2147fd7d6c17006ac0f431523d94ad90a44ee"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "a6b87f63429f4558272ce9d17cac84018c413163ac89aea8547c93856632000b"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "2dfcb2cfbd297d87bc7d11617712c903a49c225278b7cc2e024f112f33412a61"
 metafile = true
 
 [[files]]
@@ -108,6 +153,11 @@ hash = "934b9535d9a4c69a7cb7a458a1e3102d6320786f1c0c7c1f8c001a85135a079c"
 metafile = true
 
 [[files]]
+file = "mods/iceandfire-fabric.pw.toml"
+hash = "ca15457523fb55caaa28030d2eedd2c074306bf1a4a1c49fb784c0fa94491557"
+metafile = true
+
+[[files]]
 file = "mods/immersivemc.pw.toml"
 hash = "0e2b5aade879fe582b3376ec6f5822f6c3b45c6ddffd33be42d8183f08e5f94e"
 metafile = true
@@ -133,6 +183,11 @@ hash = "c43375da9a71c4a51f171be02d148cc6e7d22b0b1294fed996d88616b4184aa1"
 metafile = true
 
 [[files]]
+file = "mods/jupiter.pw.toml"
+hash = "db82303a8bc55ed5eaceb772b43d2cee91cee696312d39ba0acaca35acf4dc45"
+metafile = true
+
+[[files]]
 file = "mods/lavender.pw.toml"
 hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
 metafile = true
@@ -148,6 +203,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "9d399c9d4dad20b73d05fa85c8ee9fbb660fd4e78bd4dd21780e19013b499e7c"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
 metafile = true
@@ -158,8 +218,18 @@ hash = "4a832cd994956b5ebfc3a947dd8fd7f0892a8c7d4990717b8e5388750715b950"
 metafile = true
 
 [[files]]
+file = "mods/medievalweapons.pw.toml"
+hash = "fa0b66d07831cc7002f68ccfc171aa4fc5467e793ed64a5aff9ea407aab49965"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "5b00ec4044d3eddf2b141c9f5b703d3a703c3ac5114c0d1354c953edb3f3ed5b"
 metafile = true
 
 [[files]]
@@ -185,6 +255,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
+metafile = true
+
+[[files]]
+file = "mods/rbip.pw.toml"
+hash = "319a3eb063346af512ee2edb4df842e61e6638012bc5117b2d1fcec49b763ac9"
 metafile = true
 
 [[files]]
@@ -253,8 +328,18 @@ hash = "ccd74cbff2f3dd1e933cecb00c865b97b2dc530713aad9f51ebdf0b6a539a0d4"
 metafile = true
 
 [[files]]
+file = "mods/uranus.pw.toml"
+hash = "6829baa62203d8cd695b6780a97d5187a75679557fda4f60e7d3a9a6e3e506dd"
+metafile = true
+
+[[files]]
 file = "mods/victus.pw.toml"
 hash = "e7671d5b8d45cb9b78e817cd24d7e0a953b66f147d90669aaf0c1cd8d885ffc1"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
 metafile = true
 
 [[files]]
