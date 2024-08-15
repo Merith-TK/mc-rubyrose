@@ -29,6 +29,11 @@ file = "modpack-template_icon.png"
 hash = "50f74a7debb4a852e1384434500515f2478b8dcf0d71b75eba148ca34d89715c"
 
 [[files]]
+file = "mods/ace.pw.toml"
+hash = "bff07a4c2738f0e57cb755b40eb6a5e6bfdc7c762e72c38456d9c63ee8b79846"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
 metafile = true
@@ -41,6 +46,11 @@ metafile = true
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "6fbfd9a00b617f2205c9b7739240201809eba8754093f5321aeb241f6ef6e1b4"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "64d78922bc5e9e825411bada42be1ee6816da1f6e419d6034089b3d3b85da2fb"
 metafile = true
 
 [[files]]
@@ -66,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "0998161f34280a8e4c4d7858bfc5879c111794003ed4c29e5a90eb19e08a579a"
 metafile = true
 
 [[files]]
@@ -119,6 +134,11 @@ hash = "1240209876a3d7069fb5a05fef777a3a7eef60786e62ad3bff9037ac5f0d06ce"
 metafile = true
 
 [[files]]
+file = "mods/chatabove.pw.toml"
+hash = "be557c3ac070fc7036f7c2e41814e64330e86ccc75fc8a78973f2d9c8de0396d"
+metafile = true
+
+[[files]]
 file = "mods/chrysalis.pw.toml"
 hash = "36890c7cebf455df60737facf2859592f2dbcf5bd4ee7b69b85d7ad6bfd19896"
 metafile = true
@@ -146,6 +166,21 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/creaturechat.pw.toml"
+hash = "d02a51fc553f0158e88d7f9d733869d19384384bce130a655b659a2ffaaba94f"
+metafile = true
+
+[[files]]
+file = "mods/disenchanter.pw.toml"
+hash = "67c7669b86fc38d805f5714641d44fb0ffbe752230135de97083bdf37191b271"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
 metafile = true
 
 [[files]]
@@ -189,6 +224,11 @@ hash = "2bd34b05c6028e28476426b00166378845aac5c0cbbcadf72f94d31f7754ab67"
 metafile = true
 
 [[files]]
+file = "mods/fence_on_slab.pw.toml"
+hash = "995e77b7dd0d33d0ff18ffae26f903029a087fcbd11193e86408921084507118"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -196,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "a0fd071193ac4bfe985100641f46dcdbf328952336b16e6abfc732971cd69af6"
+metafile = true
+
+[[files]]
+file = "mods/headed.pw.toml"
+hash = "84c10b52ef2f1609dd56934d4b0e7d0d4df315ea7a9495808dae11ac56211aeb"
 metafile = true
 
 [[files]]
@@ -221,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/immersivemc.pw.toml"
 hash = "0e2b5aade879fe582b3376ec6f5822f6c3b45c6ddffd33be42d8183f08e5f94e"
+metafile = true
+
+[[files]]
+file = "mods/improved-anvils.pw.toml"
+hash = "ae624bd5e51377b6e72991678aa16e983b4ec399e15e51a54f8f955cbeed7377"
 metafile = true
 
 [[files]]
@@ -294,6 +344,16 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "dc0ac3e0a3d1823aa30387953d4151bc155adb087fe4a86b5a550dcde7ce39dc"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "5b00ec4044d3eddf2b141c9f5b703d3a703c3ac5114c0d1354c953edb3f3ed5b"
 metafile = true
@@ -319,8 +379,18 @@ hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "a3707e5900026858dce22f181750da840a7cd64d5d046bdb3e49e5013d6e2da6"
 metafile = true
 
 [[files]]
@@ -369,6 +439,11 @@ hash = "b930f158ef0472ef9f2c5e4b4443cceda034524b8b0596e9c321f243b51e7fa7"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "50852c6f492cf08473040c77154def33928566d0b5f3063b304f52e9fd18143d"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
@@ -376,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "89f7693f7a01cff27f51b9b68a4fdfec49a59177b1e1e173bbcaef06f892d7e7"
 metafile = true
 
 [[files]]
@@ -409,6 +489,11 @@ hash = "6829baa62203d8cd695b6780a97d5187a75679557fda4f60e7d3a9a6e3e506dd"
 metafile = true
 
 [[files]]
+file = "mods/vanity.pw.toml"
+hash = "721c43a84c2d1d89716d0ddf51366b4b79626f20f631d7948ab1a135d0645684"
+metafile = true
+
+[[files]]
 file = "mods/victus.pw.toml"
 hash = "e7671d5b8d45cb9b78e817cd24d7e0a953b66f147d90669aaf0c1cd8d885ffc1"
 metafile = true
@@ -421,6 +506,16 @@ metafile = true
 [[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "e8982ca0032795ba98691f32b3adf8f568b7cb5beabbb4587d22c69e1b931faf"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
+metafile = true
+
+[[files]]
+file = "mods/vr-combat.pw.toml"
+hash = "17fd064ba50966e66c996a86ba3bece90c70c864ca9dcef23c6ee97d25254e18"
 metafile = true
 
 [[files]]

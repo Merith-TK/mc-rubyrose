@@ -1,0 +1,13 @@
+name = "VR Combat"
+filename = "VR-Combat_v1.0.2_Fabric_ALL.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XpGUobxt/versions/mW4eHntZ/VR-Combat_v1.0.2_Fabric_ALL.jar"
+hash-format = "sha1"
+hash = "62a62812bd1a5d675e0a0dbd5835b923b00740d4"
+
+[update]
+[update.modrinth]
+mod-id = "XpGUobxt"
+version = "mW4eHntZ"

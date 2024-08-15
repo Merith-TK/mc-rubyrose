@@ -1,0 +1,13 @@
+name = "Headed"
+filename = "headed-1.1.3-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bKHIGgPE/versions/oEncg6Hs/headed-1.1.3-1.20.jar"
+hash-format = "sha1"
+hash = "0bd647ab7d26a263bdf33129f5ac348d0ae0b4fc"
+
+[update]
+[update.modrinth]
+mod-id = "bKHIGgPE"
+version = "oEncg6Hs"

@@ -1,0 +1,13 @@
+name = "CreatureChat"
+filename = "creaturechat-1.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rvR0de1E/versions/nqde9bHM/creaturechat-1.1.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "8633b95b04289c7144f57a77aefeb1a02cb404de"
+
+[update]
+[update.modrinth]
+mod-id = "rvR0de1E"
+version = "nqde9bHM"

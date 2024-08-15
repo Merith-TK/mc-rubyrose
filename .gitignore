@@ -10,6 +10,7 @@
 ## Ignore Modpack Updater Script loose files
 .build
 .technic
+.server
 *.zip
 *.mrpack
 

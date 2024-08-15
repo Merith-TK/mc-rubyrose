@@ -78,7 +78,6 @@ server: refresh
 	@echo "Making Server pack"
 	-rm -rf .server
 	-cp -r .minecraft .server
-	cp ${PACKNAME}_icon.png .server/server-icon.png
 	cd .server && java -jar ../.minecraft/packwiz-installer-bootstrap.jar -s server ../.minecraft/pack.toml && cd ..
 	7z d .build/${PACKNAME}-server.zip ./* ./.* -r
 	7z a .build/${PACKNAME}-server.zip ./.server/* -r
@@ -120,6 +119,5 @@ pre-commit:
 
 install-precommit:
 	@echo "Installing pre-commit hook"
-	echo "#!/bin/sh" > .git/hooks/pre-commit
 	echo "make pre-commit" >> .git/hooks/pre-commit
 	chmod +x .git/hooks/pre-commit

@@ -1,0 +1,13 @@
+name = "Acro's Classical Elements"
+filename = "ace-0.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eNaKubgx/versions/eMQ6Zcbp/ace-0.7.2.jar"
+hash-format = "sha1"
+hash = "34d37d1d7ab336025d30db1669cd7eff2decb841"
+
+[update]
+[update.modrinth]
+mod-id = "eNaKubgx"
+version = "eMQ6Zcbp"
