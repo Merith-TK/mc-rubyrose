@@ -109,3 +109,17 @@ run-server:
 	echo "eula=true" > .run/eula.txt
 	cd .run && java -jar ../.minecraft/packwiz-installer-bootstrap.jar ../.minecraft/pack.toml -s server && cd ..
 	cd .run && java -Xmx2G -Xms2G -jar server.jar nogui && cd ..
+
+pre-commit:
+	@echo "Running pre-commit hook"
+	pw refresh
+	pw modlist versions
+	git add modlist.md
+	git add .minecraft/pack.toml
+	git add .minecraft/index.toml
+
+install-precommit:
+	@echo "Installing pre-commit hook"
+	echo "#!/bin/sh" > .git/hooks/pre-commit
+	echo "make pre-commit" >> .git/hooks/pre-commit
+	chmod +x .git/hooks/pre-commit

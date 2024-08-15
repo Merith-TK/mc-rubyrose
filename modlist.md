@@ -12,7 +12,7 @@
 - [Indium](https://modrinth.com/mod/Orvt0mRa/version/gofbpynL)
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM/version/lEkperf6)
 - [Recipe Book is Pain](https://modrinth.com/mod/etNS9OnA/version/aHav6Zvw)
-- [Roughly Enough Items (REI)](https://modrinth.com/mod/nfn13YXA/version/pRJse6co)
+- [Roughly Enough Items (REI)](https://modrinth.com/mod/nfn13YXA/version/K6pyAoaB)
 - [Sodium](https://modrinth.com/mod/AANobbMI/version/ygf8cVZg)
 - [Visuality](https://modrinth.com/mod/rI0hvYcd/version/uhvQD6Ny)
 
